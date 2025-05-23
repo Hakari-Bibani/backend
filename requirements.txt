@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pytesseract
+python-multipart
+pillow
+PyMuPDF
+asosoft-corrector  # If not available via pip, download manually
